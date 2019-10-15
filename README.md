@@ -75,7 +75,7 @@ If you do not currently have a cloud service, sign up for a free trial account a
 4. Click **Sign In**. 
 
     ![](images/module1/newworkspacesigninpage.PNG)  
-    *{Note: Enter the Workspace Name and Database User entered in Part 3-6 above}*
+    *Note: Enter the Workspace Name and Database User entered in Part 3-3 above*
 
 To be added. [Click here to navigate to Module 1](1-building-your-first-app-creating-an-app-from-a-spreadsheet.md)
 
