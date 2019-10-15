@@ -32,25 +32,25 @@ If you do not currently have a cloud service, sign up for a free trial account a
 
     ![](images/module1/gsaccessingapex1.png)
 
-3. Click < **Your Database** > from the **list**
+3. Click < **Your Database** > from the **list**.
 
     ![](images/module1/gsdatabase.PNG)
 
-4. Click **Service Console**
+4. Click **Service Console**.
 
     ![](images/module1/gsservice.PNG)
 
-5. Click **Development** on the left, then Click **APEX**
+5. Click **Development** on the left, then Click **APEX**.
 
     ![](images/module1/gsapex.PNG)
 
 ### **Part 3** - Creating a Workspace
 
-1. To sign into **APEX Administrative Services** (for Password enter your OCI Password) and Click **Sign In to Administration**
+1. To sign into **APEX Administrative Services** (for Password enter your OCI Password) and Click **Sign In to Administration**.
 
     ![](images/module1/workspaceadmin.PNG)
 
-3. Given this is your first time entering APEX, click **Create Workspace**
+3. Given this is your first time entering APEX, click **Create Workspace**.
 
     ![](images/module1/workspaceapex.PNG)
 
@@ -61,17 +61,17 @@ If you do not currently have a cloud service, sign up for a free trial account a
 
 ### **Part 4** – Log into your New Workspace
 
-1. Click on the link within the success message {easiest technique} OR
-2. Click on the Admin user (top right), click **Sign Out**, and then click **Return to Sign In Page**
+1. Click on the link within the success message. {easiest technique} OR
+2. Click on the Admin user (top right), click **Sign Out**, and then click **Return to Sign In Page**.
 
     ![](images/module1/newworkspacesignin.PNG)
 
-3. Sign into your new **Workspace**
+3. Sign into your new **Workspace**.
     - Workspace – enter **Your Workspace Name**
     - Username – enter **Your Database User**
     - Password – enter your OCI Password  
     *Remember workspace and username - Check*
-4. Click **Sign In** 
+4. Click **Sign In**. 
 
     ![](images/module1/newworkspacesigninpage.PNG)  
     *{Note: Enter the Workspace Name and Database User entered in Part 3-6 above}*
