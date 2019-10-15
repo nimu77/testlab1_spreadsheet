@@ -28,8 +28,7 @@ If you do not currently have a cloud service, sign up for a free trial account a
 
 ### **Part 1** - Accessing APEX
 1. Sign into your **Oracle Cloud service**.
-2. Click the **Navigation Menu** (top left), select **Autonomous Data Warehouse** or **Autonomous Transaction Processing**, based on
-which service(s) you have defined.
+2. Click the **Navigation Menu** (top left), select **Autonomous Data Warehouse** or **Autonomous Transaction Processing**, based on which service(s) you have defined.
 
     ![](images/module1/gsaccessingapex1.png)
 
