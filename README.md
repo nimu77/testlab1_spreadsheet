@@ -43,6 +43,7 @@ If you do not currently have a cloud service, sign up for a free trial account a
 5. Click **Development** on the left, then Click **APEX**.
 
     ![](images/module1/gsapex.PNG)
+    *Note: If you already have a workspace on APEX, skip rest of the parts and log in to APEX with your credentials.*
 
 ### **Part 3** - Creating a Workspace
 
