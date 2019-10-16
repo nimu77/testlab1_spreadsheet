@@ -23,10 +23,31 @@ If you do not currently have a cloud service, sign up for a free trial account a
 | 2 | [Improving the Report and Form](2-using-the-runtime-environment-improving-the-report-and-form.md) | 10 min |
 | 3 | [Adding a Calendar](3-using-the-runtime-environment-adding-a-calendar.md) | 5 min |
 
-## Parts
+
+### Parts
+### Part 1: Acquire an Oracle Cloud trial account
+If you already have an Oracle Cloud trial account, you may skip to the next part.
+
+Please click this link to create your free account. When you complete the registration process you'll receive an account with a $300 credit that will enable you to complete the lab for free. You can then use any remaining credit to continue to explore the Oracle Cloud.
+
+Soon after requesting your trial you will receive the following email. Once you receive this email you can proceed to Part 2.
+
+    ![]()
+
+### Part 2: Log in to your Oracle Cloud account
+In this part, you will log into your Oracle Cloud account so that you can start working with various services.
+
+You should have signed up for your Oracle Cloud trial account. If not, return to the Lab Introduction and complete Part 1.
+
+Once you receive the Get Started Now with Oracle Cloud email, make note of your Username, Password, and Cloud Account Name.
+
+From any browser go to https://cloud.oracle.com/en_US/sign-in.
+
+Enter your Cloud Account Name in the input field and click the Next button.
 
 
-### **Part 1** - Accessing APEX
+
+### **Part 2** - Accessing APEX
 1. Sign into your **Oracle Cloud service**.
 2. Click the **Navigation Menu** (top left), select **Autonomous Data Warehouse** or **Autonomous Transaction Processing**, based on which service(s) you have defined.
 
